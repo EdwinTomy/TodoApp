@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories: TodoApp.gif
 
 [App Demo Link] (Todo.gif)
+https://imgur.com/a/fwRgzyy
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
